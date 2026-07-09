@@ -14,11 +14,11 @@ Problem został potraktowany jako klasyfikacja wieloklasowa. Model przewiduje je
 
 Projekt został wykonany w Pythonie w środowisku PyCharm.
 
-## Dataset
+## Zbiór danych
 
 Dane pochodzą z Kaggle: **NanoGrip Tennis Biomechanics Dataset**.
 
-Dataset zawiera 4780 obserwacji i 28 kolumn. Po wstępnym czyszczeniu usunęłam kolumny techniczne `Subject_ID` oraz `Trial_ID`, ponieważ były to identyfikatory i nie wnosiły wartości do modelowania.
+Zbiór danych  zawiera 4780 obserwacji i 28 kolumn. Po wstępnym czyszczeniu usunęłam kolumny techniczne `Subject_ID` oraz `Trial_ID`, ponieważ były to identyfikatory i nie wnosiły wartości do modelowania.
 
 Po czyszczeniu dane zawierały:
 
@@ -71,7 +71,7 @@ Na początku wczytałam dane z pliku CSV i sprawdziłam podstawowe informacje o 
 - nazwy kolumn,
 - pierwsze obserwacje.
 
-Dataset miał początkowo 4780 wierszy i 28 kolumn.
+Zbiór miał początkowo 4780 wierszy i 28 kolumn.
 
 ### 2. Czyszczenie danych
 
@@ -84,7 +84,7 @@ Usunęłam dwie kolumny techniczne:
 
 Nie były one potrzebne do analizy, ponieważ pełniły funkcję identyfikatorów.
 
-Po czyszczeniu dataset miał 4780 wierszy i 26 kolumn.
+Po czyszczeniu zbiór miał 4780 wierszy i 26 kolumn.
 
 ### 3. Eksploracyjna analiza danych
 
