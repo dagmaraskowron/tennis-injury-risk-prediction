@@ -170,4 +170,7 @@ Na podstawie analizy można zauważyć, że:
 
 Model nie uwzględnia wielu czynników, które mogłyby mieć znaczenie w prawdziwym sporcie, np. historii kontuzji, techniki gry, obciążenia treningowego, regeneracji czy poziomu zmęczenia w dłuższym czasie.
 
+## Dalszy rozwój projektu
+
+W kolejnych etapach można porównać wyniki większej liczby modeli oraz sprawdzić ich skuteczność z wykorzystaniem walidacji krzyżowej.
 
