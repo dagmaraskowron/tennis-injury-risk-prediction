@@ -126,7 +126,7 @@ Modele przewidywały jedną z trzech klas:
 - `Medium`,
 - `High`.
 
-Dane zostały podzielone na zbiór treningowy i testowy.
+Dane podzieliłam na zbiór treningowy i testowy.
 
 ## Wyniki modeli
 
